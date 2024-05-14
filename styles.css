@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(27, 211, 211);
+    color: white;
+    width: 400px;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 30%;
+    padding: 22px;
+
+}
+button{
+    font-weight: 600;
+    background-color: rgb(182, 13, 13);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-size: 24px;
+    width: 130px;
+    height: 38px;
+
+}
+img{
+    width: 50%;
+    border-radius: 50%;
+     margin-top: 3%;
+
+}
